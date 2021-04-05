@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @esmaeil-ahmadipour
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-esmaeil-ahmadipour/esmaeil-ahmadipour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi there 👋
+
+
+- 🌱 I’m currently learning Android Native 
+- 👯 I'm looking to collaborate on International Companies
+- 💬 Ask me about programming
+- 📫 How to reach me: [ea2.ir](https://ea2.ir/)
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=esmaeil-ahmadipour)
+
