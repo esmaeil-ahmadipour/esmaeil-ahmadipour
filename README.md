@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Android Native 
+- 🌱 I’m currently work on flutter project. 
 - 👯 I'm looking to collaborate on International Companies
 - 💬 Ask me about programming
 - 📫 How to reach me: [ea2.ir](https://ea2.ir/)
