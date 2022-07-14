@@ -33,6 +33,11 @@
 <a href="https://medium.com/@software8686/">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
+</div>
+
+### Contact me...
+
+<div align="left">
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=software8686@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
