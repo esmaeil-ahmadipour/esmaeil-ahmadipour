@@ -60,13 +60,14 @@ Native programming for Android (with java/kotlin) and iOS (swift and objective-c
   <h1 align="start"> Skills </h1>
 <p h2 align="start">
 
-- #### Programming Languages:
+- #### Programming Languages & Framework :
   <img alt="C#" src="https://img.shields.io/badge/c%23-239120?style=flat-squar&logo=c-sharp&logoColor=white"/>
   <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-squar&logo=dart&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/java-bc0b19?style=flat-squar&logo=openjdk&logoColor=white"/>
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-squar&logo=Kotlin&logoColor=white"/>
-  <img alt="Javascript" src="https://img.shields.io/badge/javascript-ED8B00.svg?style=flat-squar&logo=javascript&logoColor=white"/>
   <img alt="Swift" src="https://img.shields.io/badge/Swift-02569B?style=flat-squar&logo=swift&logoColor=white"/>
+  <img alt="Javascript" src="https://img.shields.io/badge/javascript-ED8B00.svg?style=flat-squar&logo=javascript&logoColor=white"/>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-075898?style=flat-squar&logo=flutter&logoColor=white"/>
 
 - #### Databases:
   <img alt="SQLite" src="https://img.shields.io/badge/sqlite-316192.svg?style=flat-squar&logo=sqlite&logoColor=white"/>
@@ -107,6 +108,8 @@ Native programming for Android (with java/kotlin) and iOS (swift and objective-c
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-DE33A6.svg?style=flat-squar&logo=graphql&labelColor=DE33A6"/>
   <img alt="Rive Animation" src="https://img.shields.io/badge/Rive Animation-000000.svg?style=flat-squar&logo=flutter&labelColor=000000"/>
   <img alt="Lottie Animation" src="https://img.shields.io/badge/Lottie Animation-007484.svg?style=flat-squar&logo=android&labelColor=007484&logoColor=white"/>
+  <img alt="Vuforia" src="https://img.shields.io/badge/Vuforia-000000.svg?style=flat-squar&logo=unity&labelColor=000000&logoColor=white"/>
+  <img alt="AR Kit" src="https://img.shields.io/badge/AR Kit-757575.svg?style=flat-squar&logo=flutter&labelColor=757575&logoColor=white"/>
 
 - #### State Managments & Dependency Injection:
   <img alt="Bloc" src="https://img.shields.io/badge/Bloc-0080BB.svg?style=flat-squar&logo=flutter&logoColor=white"/>
