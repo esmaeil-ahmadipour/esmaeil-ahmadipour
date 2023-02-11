@@ -55,6 +55,9 @@ Native programming for Android (with java/kotlin) and iOS (swift and objective-c
  <a href="https://medium.com/@software8686/">
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat-squar&logo=medium&logoColor=white" />
 </a>
+ <a href="https://t.me/esmaeil_ahmadipour">
+    <img src="https://img.shields.io/badge/Telegram-2B9FD1?style=flat-squar&logo=telegram&logoColor=white" />
+</a>
  <br />
 <p align="start">
   <h1 align="start"> Skills </h1>
