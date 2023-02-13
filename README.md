@@ -9,7 +9,7 @@
 
  <br />
 <p align="start">
-  <h1 align="start"> Bio </h1>
+  <h1 align="start"> Professional Bio </h1>
 <p h2 align="start">
 
 Welcome, I'm  Esmaeil.  
@@ -58,6 +58,9 @@ Native programming for Android (with java/kotlin) and iOS (swift and objective-c
  <a href="https://t.me/esmaeil_ahmadipour">
     <img src="https://img.shields.io/badge/Telegram-2B9FD1?style=flat-squar&logo=telegram&logoColor=white" />
 </a>
+ <a href="https://stackoverflow.com/users/9854260/esmaeil-ahmadipour">
+    <img src="https://img.shields.io/badge/Stackoverflow-ef8236?style=flat-squar&logo=stackoverflow&logoColor=white" />
+</a>
  <br />
 <p align="start">
   <h1 align="start"> Skills </h1>
@@ -76,6 +79,8 @@ Native programming for Android (with java/kotlin) and iOS (swift and objective-c
   <img alt="SQLite" src="https://img.shields.io/badge/sqlite-316192.svg?style=flat-squar&logo=sqlite&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-00f.svg?style=flat-squar&logo=mysql&logoColor=white"/>
   <img alt="HIVE" src="https://img.shields.io/badge/hive-ED8B00.svg?style=flat-squar&logo=hive&logoColor=white"/>
+  <img alt="Realm" src="https://img.shields.io/badge/Realm-ff69b4.svg?style=flat-squar&logo=realm&logoColor=white"/>
+
 
 - #### Tools & Services:
   <img alt="Git" src="https://img.shields.io/badge/git-F05033.svg?style=flat-squar&logo=git&labelColor=F05033&logoColor=white"/>
@@ -96,7 +101,6 @@ Native programming for Android (with java/kotlin) and iOS (swift and objective-c
 
 
 - #### Libraries:
-  <img alt="Dagger" src="https://img.shields.io/badge/Dagger-1B1E45.svg?style=flat-squar&logo=android&labelColor=1B1E45&logoColor=white"/>
   <img alt="Rx-Java" src="https://img.shields.io/badge/Rx Java-E13992.svg?style=flat-squar&logo=android&labelColor=E13992&logoColor=white"/>
   <img alt="Rx-Dart" src="https://img.shields.io/badge/Rx Dart-E13992.svg?style=flat-squar&logo=dart&labelColor=E13992&logoColor=white"/>
   <img alt="Rx-Android" src="https://img.shields.io/badge/Rx Android-E13992.svg?style=flat-squar&logo=android&labelColor=E13992&logoColor=white"/>
@@ -104,11 +108,11 @@ Native programming for Android (with java/kotlin) and iOS (swift and objective-c
   <img alt="Freezed" src="https://img.shields.io/badge/Freezed-316192.svg?style=flat-squar&logo=flutter&labelColor=316192&logoColor=white"/>
   <img alt="Retrofit" src="https://img.shields.io/badge/Retrofit-217346.svg?style=flat-squar&logo=flutter&labelColor=217346&logoColor=white"/>
   <img alt="Dio" src="https://img.shields.io/badge/Dio-F7931E.svg?style=flat-squar&logo=flutter&labelColor=F7931E&logoColor=white"/>
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-DE33A6.svg?style=flat-squar&logo=graphql&labelColor=DE33A6"/>
   <img alt="Google Map" src="https://img.shields.io/badge/Google Map-C72800.svg?style=flat-squar&logo=firebase&labelColor=C72800&logoColor=white"/>
   <img alt="MapBox" src="https://img.shields.io/badge/MapBox-252525.svg?style=flat-squar&logo=MapBox&labelColor=252525&logoColor=white"/>
   <img alt="Firebase Services" src="https://img.shields.io/badge/Firebase Services-EE800F.svg?style=flat-squar&logo=firebase&labelColor=EE800F&logoColor=white"/>
   <img alt="Coroutines" src="https://img.shields.io/badge/Coroutines-252525.svg?style=flat-squar&logo=android&labelColor=252525&logoColor=white"/>
-  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-DE33A6.svg?style=flat-squar&logo=graphql&labelColor=DE33A6"/>
   <img alt="Rive Animation" src="https://img.shields.io/badge/Rive Animation-000000.svg?style=flat-squar&logo=flutter&labelColor=000000"/>
   <img alt="Lottie Animation" src="https://img.shields.io/badge/Lottie Animation-007484.svg?style=flat-squar&logo=android&labelColor=007484&logoColor=white"/>
   <img alt="Vuforia" src="https://img.shields.io/badge/Vuforia-000000.svg?style=flat-squar&logo=unity&labelColor=000000&logoColor=white"/>
@@ -123,6 +127,7 @@ Native programming for Android (with java/kotlin) and iOS (swift and objective-c
   <img alt="GetX" src="https://img.shields.io/badge/GetX-6711B6.svg?style=flat-squar&logo=flutter&logoColor=white"/>
   <img alt="Kiwi" src="https://img.shields.io/badge/Kiwi-755246.svg?style=flat-squar&logo=flutter&logoColor=white"/>
   <img alt="GetIt" src="https://img.shields.io/badge/GetIt-035697.svg?style=flat-squar&logo=flutter&logoColor=white"/>
+  <img alt="Dagger" src="https://img.shields.io/badge/Dagger-1B1E45.svg?style=flat-squar&logo=android&labelColor=1B1E45&logoColor=white"/>
 
  
 - #### Software Engineering and Software Architectures:
