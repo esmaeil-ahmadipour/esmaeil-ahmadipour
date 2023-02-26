@@ -55,6 +55,12 @@ Native programming for Android (with java/kotlin) and iOS (swift and objective-c
  <a href="https://medium.com/@software8686/">
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat-squar&logo=medium&logoColor=white" />
 </a>
+ <a href="https://www.reddit.com/user/esmaeil-ahmadipour">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-squar&logo=reddit&logoColor=white" />
+</a>
+<a href="https://dev.to/esmaeilahmadipour">
+    <img src="https://img.shields.io/badge/Dev-12100E?style=flat-squar&logo=dev.to&logoColor=white" />
+</a>
  <a href="https://t.me/esmaeil_ahmadipour">
     <img src="https://img.shields.io/badge/Telegram-2B9FD1?style=flat-squar&logo=telegram&logoColor=white" />
 </a>
@@ -85,7 +91,6 @@ Native programming for Android (with java/kotlin) and iOS (swift and objective-c
 - #### Tools & Services:
   <img alt="Git" src="https://img.shields.io/badge/git-F05033.svg?style=flat-squar&logo=git&labelColor=F05033&logoColor=white"/>
   <img alt="GitLab" src="https://img.shields.io/badge/gitlab-121011.svg?style=flat-squar&logo=gitlab&labelColor=121011&logoColor=white"/>
-  <img alt="Matomo" src="https://img.shields.io/badge/Matomo-3152A0.svg?style=flat-squar&logo=matomo&labelColor=3152A0&logoColor=white"/>
   <img alt="Matomo" src="https://img.shields.io/badge/Matomo-3152A0.svg?style=flat-squar&logo=matomo&labelColor=3152A0&logoColor=white"/>
   <img alt="Sentry" src="https://img.shields.io/badge/Sentry-0052CC.svg?style=flat-squar&logo=sentry&labelColor=0052CC&logoColor=white"/>
   <img alt="GoogleAnalytics" src="https://img.shields.io/badge/Google Analytics-e37400.svg?style=flat-squar&logo=googleanalytics&labelColor=e37400&logoColor=white"/>
