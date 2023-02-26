@@ -161,6 +161,46 @@ Native programming for Android (with java/kotlin) and iOS (swift and objective-c
   <img alt="Leadership" src="https://img.shields.io/badge/Leadership-02569B.svg?style=flat-squar"/>
   <img alt="Time management" src="https://img.shields.io/badge/Time management-02569B.svg?style=flat-squar"/>
 
+ <br />
+<p align="start">
+  <h1 align="start"> Packages/Libraries </h1>
+<p h2 align="start">
+
+<p>
+ <a href="https://pub.dev/packages/flutter_glass">
+  <img alt="Flutter Glass" src="https://img.shields.io/badge/Flutter Glass-075898.svg?style=flat-squar&logo=Flutter&label=package&labelColor=585858&logoColor=white"/>
+  <img alt="flutter_glass" src="https://img.shields.io/pub/points/flutter_glass?logo=dart&label=pub%20points"/>
+  <img alt="flutter_glass" src="https://img.shields.io/pub/popularity/flutter_glass?logo=dart"/>
+  <img alt="flutter_glass" src="https://img.shields.io/pub/likes/flutter_glass?logo=dart"/>
+ </a>
+</p>
+<p>
+ <a href="https://pub.dev/packages/flutter_faded_list">
+  <img alt="Flutter Faded List" src="https://img.shields.io/badge/Flutter Faded List-075898.svg?style=flat-squar&logo=Flutter&label=package&labelColor=585858&logoColor=white"/>
+  <img alt="Flutter Faded List" src="https://img.shields.io/pub/points/flutter_faded_list?logo=dart&label=pub%20points"/>
+  <img alt="Flutter Faded List" src="https://img.shields.io/pub/popularity/flutter_faded_list?logo=dart"/>
+  <img alt="Flutter Faded List" src="https://img.shields.io/pub/likes/flutter_faded_list?logo=dart"/>
+ </a>
+</p>
+
+<p>
+ <a href="https://pub.dev/packages/crypto_simple">
+  <img alt="Crypto Simple" src="https://img.shields.io/badge/Crypto Simple-075898.svg?style=flat-squar&logo=Flutter&label=package&labelColor=585858&logoColor=white"/>
+  <img alt="Crypto Simple" src="https://img.shields.io/pub/points/crypto_simple?logo=dart&label=pub%20points"/>
+  <img alt="Crypto Simple" src="https://img.shields.io/pub/popularity/crypto_simple?logo=dart"/>
+  <img alt="Crypto Simple" src="https://img.shields.io/pub/likes/crypto_simple?logo=dart"/>
+ </a>
+</p>
+
+<p>
+ <a href="https://pub.dev/packages/platform_detector">
+  <img alt="Platform Detector" src="https://img.shields.io/badge/Platform Detector-075898.svg?style=flat-squar&logo=Flutter&label=package&labelColor=585858&logoColor=white"/>
+  <img alt="Platform Detector" src="https://img.shields.io/pub/points/platform_detector?logo=dart&label=pub%20points"/>
+  <img alt="Platform Detector" src="https://img.shields.io/pub/popularity/platform_detector?logo=dart"/>
+  <img alt="Platform Detector" src="https://img.shields.io/pub/likes/platform_detector?logo=dart"/>
+ </a>
+</p>
+
 <p align="start">
   <h1 align="start"> Stats </h1>
 <p h2 align="start">
