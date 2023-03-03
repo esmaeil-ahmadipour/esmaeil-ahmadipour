@@ -144,6 +144,8 @@ Native programming for Android (with java/kotlin) and iOS (swift and objective-c
     <img alt="MVP" src="https://img.shields.io/badge/MVP-121011.svg?style=flat-squar"/>
     <img alt="Clean Architecture" src="https://img.shields.io/badge/ Clean Architecture-121011.svg?style=flat-squar"/>
     <img alt="Unit Testing" src="https://img.shields.io/badge/Unit Testing-121011.svg?style=flat-squar"/>
+    <img alt="Widget Testing" src="https://img.shields.io/badge/Widget Testing-121011.svg?style=flat-squar"/>  
+    <img alt="Integration Testing" src="https://img.shields.io/badge/Integration Testing-121011.svg?style=flat-squar"/> 
     <img alt="TDD" src="https://img.shields.io/badge/TDD-121011.svg?style=flat-squar"/>
     <img alt="BDD" src="https://img.shields.io/badge/BDD-121011.svg?style=flat-squar"/>
     <img alt="Agile mythology" src="https://img.shields.io/badge/Agile mythology-121011.svg?style=flat-squar"/>
@@ -169,7 +171,7 @@ Native programming for Android (with java/kotlin) and iOS (swift and objective-c
 <p> 👑 Owner
  <a href="https://pub.dev/packages/flutter_glass">
   <img alt="Flutter Glass" src="https://img.shields.io/badge/Flutter Glass-075898.svg?style=flat-squar&logo=Flutter&label=package&labelColor=585858&logoColor=white"/>
-  <img alt="flutter_glass" src="https://img.shields.io/pub/points/flutter_glass?logo=dart&label=pub%20points"/>
+  <img alt="flutter_glass" src="https://img.shields.io/pub/points/flutter_glass?logo=dart&label=points"/>
   <img alt="flutter_glass" src="https://img.shields.io/pub/popularity/flutter_glass?logo=dart"/>
   <img alt="flutter_glass" src="https://img.shields.io/pub/likes/flutter_glass?logo=dart"/>
  </a>
@@ -177,7 +179,7 @@ Native programming for Android (with java/kotlin) and iOS (swift and objective-c
 <p> 👑 Owner
  <a href="https://pub.dev/packages/flutter_faded_list">
   <img alt="Flutter Faded List" src="https://img.shields.io/badge/Flutter Faded List-075898.svg?style=flat-squar&logo=Flutter&label=package&labelColor=585858&logoColor=white"/>
-  <img alt="Flutter Faded List" src="https://img.shields.io/pub/points/flutter_faded_list?logo=dart&label=pub%20points"/>
+  <img alt="Flutter Faded List" src="https://img.shields.io/pub/points/flutter_faded_list?logo=dart&label=points"/>
   <img alt="Flutter Faded List" src="https://img.shields.io/pub/popularity/flutter_faded_list?logo=dart"/>
   <img alt="Flutter Faded List" src="https://img.shields.io/pub/likes/flutter_faded_list?logo=dart"/>
  </a>
@@ -186,7 +188,7 @@ Native programming for Android (with java/kotlin) and iOS (swift and objective-c
 <p> 👑 Owner
  <a href="https://pub.dev/packages/crypto_simple">
   <img alt="Crypto Simple" src="https://img.shields.io/badge/Crypto Simple-075898.svg?style=flat-squar&logo=Flutter&label=package&labelColor=585858&logoColor=white"/>
-  <img alt="Crypto Simple" src="https://img.shields.io/pub/points/crypto_simple?logo=dart&label=pub%20points"/>
+  <img alt="Crypto Simple" src="https://img.shields.io/pub/points/crypto_simple?logo=dart&label=points"/>
   <img alt="Crypto Simple" src="https://img.shields.io/pub/popularity/crypto_simple?logo=dart"/>
   <img alt="Crypto Simple" src="https://img.shields.io/pub/likes/crypto_simple?logo=dart"/>
  </a>
@@ -195,25 +197,25 @@ Native programming for Android (with java/kotlin) and iOS (swift and objective-c
 <p> 👑 Owner
  <a href="https://pub.dev/packages/platform_detector">
   <img alt="Platform Detector" src="https://img.shields.io/badge/Platform Detector-075898.svg?style=flat-squar&logo=Flutter&label=package&labelColor=585858&logoColor=white"/>
-  <img alt="Platform Detector" src="https://img.shields.io/pub/points/platform_detector?logo=dart&label=pub%20points"/>
+  <img alt="Platform Detector" src="https://img.shields.io/pub/points/platform_detector?logo=dart&label=points"/>
   <img alt="Platform Detector" src="https://img.shields.io/pub/popularity/platform_detector?logo=dart"/>
   <img alt="Platform Detector" src="https://img.shields.io/pub/likes/platform_detector?logo=dart"/> 
  </a>
 </p>
 
-<p> 🥈 Contributors
+<p> 🥈 Contributor
  <a href="https://pub.dev/packages/flutter_camera_overlay">
   <img alt="Flutter Camera Overlay" src="https://img.shields.io/badge/Flutter Camera Overlay-075898.svg?style=flat-squar&logo=Flutter&label=package&labelColor=585858&logoColor=white"/>
-  <img alt="Flutter Camera Overlay" src="https://img.shields.io/pub/points/flutter_camera_overlay?logo=dart&label=pub%20points"/>
+  <img alt="Flutter Camera Overlay" src="https://img.shields.io/pub/points/flutter_camera_overlay?logo=dart&label=points"/>
   <img alt="Flutter Camera Overlay" src="https://img.shields.io/pub/popularity/flutter_camera_overlay?logo=dart"/>
   <img alt="Flutter Camera Overlay" src="https://img.shields.io/pub/likes/flutter_camera_overlay?logo=dart"/> 
  </a>
 </p>
 
-<p> 🥈 Contributors
+<p> 🥈 Contributor
  <a href="https://pub.dev/packages/flutter_adaptive_ui">
   <img alt="Flutter Adaptive Ui" src="https://img.shields.io/badge/Flutter Adaptive Ui-075898.svg?style=flat-squar&logo=Flutter&label=package&labelColor=585858&logoColor=white"/>
-  <img alt="Flutter Adaptive Ui" src="https://img.shields.io/pub/points/flutter_adaptive_ui?logo=dart&label=pub%20points"/>
+  <img alt="Flutter Adaptive Ui" src="https://img.shields.io/pub/points/flutter_adaptive_ui?logo=dart&label=points"/>
   <img alt="Flutter Adaptive Ui" src="https://img.shields.io/pub/popularity/flutter_adaptive_ui?logo=dart"/>
   <img alt="Flutter Adaptive Ui" src="https://img.shields.io/pub/likes/flutter_adaptive_ui?logo=dart"/> 
  </a>
