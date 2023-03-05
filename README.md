@@ -52,7 +52,7 @@ Native programming for Android (with java/kotlin) and iOS (swift and objective-c
  <a href="https://www.kaggle.com/esmaeilahmadipour">
   <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-035a7d?style=flat-squar&logo=kaggle&logoColor=white"/>
  </a>
- <a href="https://medium.com/@software8686/">
+ <a href="https://medium.com/@ahmadipour">
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat-squar&logo=medium&logoColor=white" />
 </a>
  <a href="https://www.reddit.com/user/esmaeil-ahmadipour">
