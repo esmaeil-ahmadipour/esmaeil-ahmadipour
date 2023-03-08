@@ -55,6 +55,9 @@ Native programming for Android (with java/kotlin) and iOS (swift and objective-c
  <a href="https://medium.com/@ahmadipour">
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat-squar&logo=medium&logoColor=white" />
 </a>
+ <a href="https://twitter.com/E_ahmadipour">
+    <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=flat-squar&logo=twitter&logoColor=white" />
+</a>
  <a href="https://www.reddit.com/user/esmaeil-ahmadipour">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-squar&logo=reddit&logoColor=white" />
 </a>
