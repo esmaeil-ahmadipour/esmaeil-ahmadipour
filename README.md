@@ -224,6 +224,15 @@ Native programming for Android (with java/kotlin) and iOS (swift and objective-c
  </a>
 </p>
 
+<p> 🥈 Contributor
+ <a href="https://pub.dev/packages/flutter_cool_card_swiper">
+  <img alt="Flutter Adaptive Ui" src="https://img.shields.io/badge/Flutter Cool Card Swiper-075898.svg?style=flat-squar&logo=Flutter&label=package&labelColor=585858&logoColor=white"/>
+  <img alt="Flutter Adaptive Ui" src="https://img.shields.io/pub/points/flutter_cool_card_swiper?logo=dart&label=points"/>
+  <img alt="Flutter Adaptive Ui" src="https://img.shields.io/pub/popularity/flutter_cool_card_swiper?logo=dart"/>
+  <img alt="Flutter Adaptive Ui" src="https://img.shields.io/pub/likes/flutter_cool_card_swiper?logo=dart"/> 
+ </a>
+</p>
+
 
 <p align="start">
   <h1 align="start"> Stats </h1>
