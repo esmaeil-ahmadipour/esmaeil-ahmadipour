@@ -206,6 +206,15 @@ Native programming for Android (with java/kotlin) and iOS (swift and objective-c
  </a>
 </p>
 
+<p> 👑 Owner
+ <a href="https://pub.dev/packages/ip_detector">
+  <img alt="Crypto Simple" src="https://img.shields.io/badge/IP Detector-075898.svg?style=flat-squar&logo=Flutter&label=package&labelColor=585858&logoColor=white"/>
+  <img alt="Crypto Simple" src="https://img.shields.io/pub/points/ip_detector?logo=dart&label=points"/>
+  <img alt="Crypto Simple" src="https://img.shields.io/pub/popularity/ip_detector?logo=dart"/>
+  <img alt="Crypto Simple" src="https://img.shields.io/pub/likes/ip_detector?logo=dart"/>
+ </a>
+</p>
+
 <p> 🥈 Contributor
  <a href="https://pub.dev/packages/flutter_camera_overlay">
   <img alt="Flutter Camera Overlay" src="https://img.shields.io/badge/Flutter Camera Overlay-075898.svg?style=flat-squar&logo=Flutter&label=package&labelColor=585858&logoColor=white"/>
