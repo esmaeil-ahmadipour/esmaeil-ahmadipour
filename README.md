@@ -7,26 +7,43 @@
 ![esmaeil ahmadipour](https://user-images.githubusercontent.com/46590079/218126591-01081bbc-c3f9-4381-902c-9ce56c0c0972.jpg)
 
 
- <br />
-<p align="start">
-  <h1 align="start"> Professional Bio </h1>
-<p h2 align="start">
+# Senior Flutter Developer & Blockchain Specialist | Founder at Tarvix
 
-Welcome, I'm  Esmaeil.  
+Hello, I'm Esmaeil! 👋
 
-I am a front-end developer and my field is mobile development , and have a associate degree
- from Azad University of Dezful in the field of computer and software.
- 
-● Since 2016, I have been working professionally in the field of mobile development.
+I'm a passionate developer with **over 8 years of experience** in mobile and cross-platform development. My journey started in **2016** with native Android (Java/Kotlin) and iOS (Swift/Objective-C) development, and expanded to include game development with C# and Unity.
 
-● I have experienced during this time
-Native programming for Android (with java/kotlin) and iOS (swift and objective-c).
+Since **late 2018**, I've been deeply involved with Flutter (starting from v0.11.13) and have built my career around this amazing framework. Currently, I'm fully dedicated to the **Web3 ecosystem**, building secure blockchain solutions including wallets, node management systems, and decentralized applications (dApps) using Flutter across Android, iOS, Web, and Desktop.
 
-● I have experienced C# for game development with UNITY and I have certificate fom Isfahan University of Technology and tehran shahid beheshti university .
+## 🚀 What I'm Building
 
-● I have been working professionally with Flutter Cross Framework since late 2018 (from flutter version v0.11.13), and the applications I have recently published are developed with this framework.
+- **Tarvix** - Leading a team to create open-source trading tools and Web3 connectivity solutions
+- Secure blockchain wallets and node management systems
+- Decentralized applications (dApps) using Flutter
+- Cross-platform solutions for Android, iOS, Web, and Desktop
 
-● During all this time, I have had experience in mobile programming in various industries, such as: banking / comprehensive university platform / providing online home services / online grocery chain stores.
+## 💼 Experience Highlights
+
+- **8+ years** in professional mobile development
+- Diverse industry experience across **banking, fintech, e-commerce, and university platforms**
+- Strong focus on **clean architecture** and **security-first design** for crypto applications
+- Native mobile development background in **Android & iOS**
+
+## 🎓 Education & Certifications
+
+- Associate Degree in Computer Software from Azad University of Dezful
+- Game Development Certification from Isfahan University of Technology
+- Unity and C# certification from Tehran Shahid Beheshti University
+
+## 🌟 Current Focus
+
+I'm always excited to explore new challenges in the **blockchain space** and welcome conversations about interesting projects and collaborations. Let's build the future of **Web3** together!
+
+---
+
+**Connect with me:** [Your GitHub/LinkedIn/Other links]
+
+*Open to innovative projects and collaborations in the blockchain ecosystem!*
 
  <br />
 <p align="start">
