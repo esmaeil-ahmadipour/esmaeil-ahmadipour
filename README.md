@@ -39,12 +39,6 @@ Since **late 2018**, I've been deeply involved with Flutter (starting from v0.11
 
 I'm always excited to explore new challenges in the **blockchain space** and welcome conversations about interesting projects and collaborations. Let's build the future of **Web3** together!
 
----
-
-**Connect with me:** [Your GitHub/LinkedIn/Other links]
-
-*Open to innovative projects and collaborations in the blockchain ecosystem!*
-
  <br />
 <p align="start">
   <h1 align="start"> How to reach me? </h1>
