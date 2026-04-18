@@ -11,7 +11,7 @@
 
 Hello, I’m Esmaeil! 👋
 
-I’m a senior developer with 7+ years of experience in mobile, web, and cross‑platform engineering, focused on building scalable systems with clear and durable architectural foundations.
+I’m a senior developer with 8+ years of experience in mobile, web, and cross‑platform engineering, focused on building scalable systems with clear and durable architectural foundations.
 
 I’ve led and delivered major production products such as the Daneshjooyar Web & Mobile App (Islamic Azad University) and the PACTUS Cryptocurrency Ecosystem.
 
