@@ -7,13 +7,20 @@
 ![esmaeil ahmadipour](https://user-images.githubusercontent.com/46590079/218126591-01081bbc-c3f9-4381-902c-9ce56c0c0972.jpg)
 
 
-# Senior Flutter Developer & Blockchain Specialist | Founder at Tarvix
+# Senior Mobile & Web Developer | Flutter & React/Next.js
 
-Hello, I'm Esmaeil! 👋
+Hello, I’m Esmaeil! 👋
 
-I'm a passionate developer with **over 8 years of experience** in mobile and cross-platform development. My journey started in **2016** with native Android (Java/Kotlin) and iOS (Swift/Objective-C) development, and expanded to include game development with C# and Unity.
+I’m a senior developer with 7+ years of experience in mobile, web, and cross‑platform engineering, focused on building scalable systems with clear and durable architectural foundations.
 
-Since **late 2018**, I've been deeply involved with Flutter (starting from v0.11.13) and have built my career around this amazing framework. Currently, I'm fully dedicated to the **Web3 ecosystem**, building secure blockchain solutions including wallets, node management systems, and decentralized applications (dApps) using Flutter across Android, iOS, Web, and Desktop.
+I’ve led and delivered major production products such as the Daneshjooyar Web & Mobile App (Islamic Azad University) and the PACTUS Cryptocurrency Ecosystem.
+
+At Daneshjooyar, I worked as a Flutter Developer and Mobile Team Lead, where I designed and established the project’s Flutter architecture baseline and implemented modules including insurance, digital identity, dormitory, and nutrition — all using Clean Architecture, solid separation of concerns, full documentation, and comprehensive testing.
+
+At PACTUS, I serve as the GUI Lead and Flutter Team Lead, overseeing development and long‑term maintenance of the NODE and WALLET products. I emphasize predictable architecture, clear documentation, and reliable performance through structured tooling and automated tests.
+
+I also build modern web and client‑side applications using React.js, Next.js, TypeScript, and JavaScript, delivering cross‑platform solutions for Android, iOS, Web, and Desktop with a consistent focus on engineering discipline and long‑term maintainability.
+
 
 ## 🚀 What I'm Building
 
@@ -24,10 +31,14 @@ Since **late 2018**, I've been deeply involved with Flutter (starting from v0.11
 
 ## 💼 Experience Highlights
 
-- **8+ years** in professional mobile development
-- Diverse industry experience across **banking, fintech, e-commerce, and university platforms**
-- Strong focus on **clean architecture** and **security-first design** for crypto applications
-- Native mobile development background in **Android & iOS**
+- **8+ years** of professional experience in mobile and cross‑platform development
+- Extensive experience building **production‑grade Flutter applications** for Android, iOS, Web, and Desktop
+- Strong background in **blockchain and Web3 application development**, including wallets and node management systems
+- Experience developing **modern web applications using React.js, Next.js, JavaScript, and TypeScript**
+- Solid understanding of **clean architecture, scalable system design, and maintainable codebases**
+- Industry experience across **fintech, banking, e‑commerce, and academic platforms**
+- Native mobile development experience in **Android (Kotlin/Java) and iOS (Swift/Objective‑C)**
+
 
 ## 🎓 Education & Certifications
 
@@ -94,6 +105,10 @@ I'm always excited to explore new challenges in the **blockchain space** and wel
   <img alt="Swift" src="https://img.shields.io/badge/Swift-02569B?style=flat-squar&logo=swift&logoColor=white"/>
   <img alt="Javascript" src="https://img.shields.io/badge/javascript-ED8B00.svg?style=flat-squar&logo=javascript&logoColor=white"/>
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-075898?style=flat-squar&logo=flutter&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A.svg?style=flat-squar&logo=react&logoColor=61DAFB"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?style=flat-squar&logo=next.js&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-squar&logo=typescript&logoColor=white"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?style=flat-squar&logo=node.js&logoColor=white"/>
 
 - #### Databases:
   <img alt="SQLite" src="https://img.shields.io/badge/sqlite-316192.svg?style=flat-squar&logo=sqlite&logoColor=white"/>
@@ -117,9 +132,17 @@ I'm always excited to explore new challenges in the **blockchain space** and wel
   <img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?style=flat-squar&logo=unity&labelColor=000000&logoColor=white"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-F76936.svg?style=flat-squar&logo=postman&labelColor=F76936&logoColor=white"/>
   <img alt="Swagger" src="https://img.shields.io/badge/Swagger-6A9500.svg?style=flat-squar&logo=swagger&labelColor=6A9500&logoColor=white"/>
+  <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?style=flat-squar&logo=npm&logoColor=white"/>
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat-squar&logo=vite&logoColor=white"/>
+  <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?style=flat-squar&logo=webpack&logoColor=black"/>
+  <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3.svg?style=flat-squar&logo=eslint&logoColor=white"/>
+  <img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E.svg?style=flat-squar&logo=prettier&logoColor=black"/>
 
 
 - #### Libraries:
+  <img alt="React Query" src="https://img.shields.io/badge/React Query-FF4154.svg?style=flat-squar&logo=reactquery&logoColor=white"/>
+  <img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4.svg?style=flat-squar&logo=axios&logoColor=white"/>
+  <img alt="Zod" src="https://img.shields.io/badge/Zod-3E67B1.svg?style=flat-squar"/>
   <img alt="Rx-Java" src="https://img.shields.io/badge/Rx Java-E13992.svg?style=flat-squar&logo=android&labelColor=E13992&logoColor=white"/>
   <img alt="Rx-Dart" src="https://img.shields.io/badge/Rx Dart-E13992.svg?style=flat-squar&logo=dart&labelColor=E13992&logoColor=white"/>
   <img alt="Rx-Android" src="https://img.shields.io/badge/Rx Android-E13992.svg?style=flat-squar&logo=android&labelColor=E13992&logoColor=white"/>
@@ -147,6 +170,9 @@ I'm always excited to explore new challenges in the **blockchain space** and wel
   <img alt="Kiwi" src="https://img.shields.io/badge/Kiwi-755246.svg?style=flat-squar&logo=flutter&logoColor=white"/>
   <img alt="GetIt" src="https://img.shields.io/badge/GetIt-035697.svg?style=flat-squar&logo=flutter&logoColor=white"/>
   <img alt="Dagger" src="https://img.shields.io/badge/Dagger-1B1E45.svg?style=flat-squar&logo=android&labelColor=1B1E45&logoColor=white"/>
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC.svg?style=flat-squar&logo=redux&logoColor=white"/>
+  <img alt="Zustand" src="https://img.shields.io/badge/Zustand-000000.svg?style=flat-squar"/>
+  <img alt="React Context" src="https://img.shields.io/badge/React Context-20232A.svg?style=flat-squar&logo=react&logoColor=61DAFB"/>
 
  
 - #### Software Engineering and Software Architectures:
@@ -166,6 +192,9 @@ I'm always excited to explore new challenges in the **blockchain space** and wel
     <img alt="Refactoring" src="https://img.shields.io/badge/Refactoring-121011.svg?style=flat-squar"/>
     <img alt="Debugging" src="https://img.shields.io/badge/Debugging-121011.svg?style=flat-squar"/>
     <img alt="Documentation" src="https://img.shields.io/badge/Documentation-121011.svg?style=flat-squar"/>
+    <img alt="SSR" src="https://img.shields.io/badge/SSR-121011.svg?style=flat-squar"/>
+    <img alt="SSG" src="https://img.shields.io/badge/SSG-121011.svg?style=flat-squar"/>
+    <img alt="Scalable Architecture" src="https://img.shields.io/badge/Scalable Architecture-121011.svg?style=flat-squar"/>
 
 - #### Soft Skills:
   <img alt="Team Work" src="https://img.shields.io/badge/Team Work-02569B.svg?style=flat-squar"/>
