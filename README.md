@@ -21,13 +21,12 @@ At PACTUS, I serve as the GUI Lead and Flutter Team Lead, overseeing development
 
 I also build modern web and client‑side applications using React.js, Next.js, TypeScript, and JavaScript, delivering cross‑platform solutions for Android, iOS, Web, and Desktop with a consistent focus on engineering discipline and long‑term maintainability.
 
+## 🚀 What I’m Building
 
-## 🚀 What I'm Building
-
-- **Tarvix** - Leading a team to create open-source trading tools and Web3 connectivity solutions
-- Secure blockchain wallets and node management systems
-- Decentralized applications (dApps) using Flutter
-- Cross-platform solutions for Android, iOS, Web, and Desktop
+- **Tarvix** – Leading a team developing open‑source trading tools and Web3 connectivity systems  
+- **Secure Blockchain Infrastructure** – Wallets, node management, and decentralized data flows  
+- **Cross‑Platform dApps** – Building decentralized applications with Flutter for mobile and web  
+- **Unified Frontend Systems** – Scalable, design‑driven web apps and client frameworks connecting users to next‑gen crypto & trading ecosystems
 
 ## 💼 Experience Highlights
 
