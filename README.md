@@ -4,7 +4,7 @@
 <img alt="Open Source Love" src="https://img.shields.io/badge/Open%20Source-%E2%99%A1-purple">
 </p> -->
 
-<img width="1400" height="350" alt="esmaeil ahmadipour" src="https://github.com/user-attachments/assets/824df849-b824-4d6e-ac95-c3d4e5e39f6b" />
+<img width="1560" height="384" alt="esmaeil ahmadipour" src="https://github.com/user-attachments/assets/309e1a02-2b29-4c23-8cde-ccb4bc82f48d" />
 
 
 # Senior Mobile & Web Developer | Flutter & React/Next.js
