@@ -4,9 +4,9 @@
 <img alt="Open Source Love" src="https://img.shields.io/badge/Open%20Source-%E2%99%A1-purple">
 </p> -->
 
-<img width="1560" height="384" alt="esmaeil ahmadipour" src="https://github.com/esmaeil-ahmadipour/esmaeil-ahmadipour/blob/main/upload/banner/esmaeil-ahmadipour.jpg" />
+<img width="1560" height="384" alt="esmaeil ahmadipour" src="https://github.com/esmaeil-ahmadipour/esmaeil-ahmadipour/blob/main/upload/banner/esmaeil-ahmadipour-banner.jpg" />
 
-# Senior Mobile & Web Developer | Flutter & React/Next.js
+# Senior Flutter Developer | Cross-Platform Apps | Frontend Developer
 
 Hello, I’m Esmaeil! 👋
 
