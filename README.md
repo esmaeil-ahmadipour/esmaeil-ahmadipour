@@ -6,37 +6,40 @@
 
 <img width="1560" height="384" alt="esmaeil ahmadipour" src="https://github.com/esmaeil-ahmadipour/esmaeil-ahmadipour/blob/main/upload/banner/esmaeil-ahmadipour-banner.jpg" />
 
-# Senior Flutter Developer | Cross-Platform Apps | Frontend Developer
+# Senior Flutter Developer | Cross-Platform & Web | Web3 & Fintech
 
-Hello, I’m Esmaeil! 👋
+Hello, I'm **Esmaeil**! 👋
 
-I’m a senior developer with 8+ years of experience in mobile, web, and cross‑platform engineering, focused on building scalable systems with clear and durable architectural foundations.
+I'm a **Senior Flutter Developer** with **8+ years of experience** building production-grade mobile, web, and cross-platform applications, with a strong focus on **architecture, maintainability, testing, and reliable production delivery**.
 
-I’ve led and delivered major production products such as the Daneshjooyar Web & Mobile App (Islamic Azad University) and the PACTUS Cryptocurrency Ecosystem.
+My recent work includes building a **production cryptocurrency exchange from scratch**, covering trading, wallets, transfers, portfolio management, authentication/KYC, real-time market data, and production release workflows.
 
-At Daneshjooyar, I worked as a Flutter Developer and Mobile Team Lead, where I designed and established the project’s Flutter architecture baseline and implemented modules including insurance, digital identity, dormitory, and nutrition — all using Clean Architecture, solid separation of concerns, full documentation, and comprehensive testing.
+I work primarily with **Flutter, Dart, Riverpod, Clean Architecture, REST, WebSocket, and real-time systems**, with additional experience in **React, Next.js, TypeScript, Node.js, and PostgreSQL**.
 
-At PACTUS, I serve as the GUI Lead and Flutter Team Lead, overseeing development and long‑term maintenance of the NODE and WALLET products. I emphasize predictable architecture, clear documentation, and reliable performance through structured tooling and automated tests.
+I also work on **blockchain and Web3 applications**, including wallets, staking, blockchain communication, and market-facing products.
 
-I also build modern web and client‑side applications using React.js, Next.js, TypeScript, and JavaScript, delivering cross‑platform solutions for Android, iOS, Web, and Desktop with a consistent focus on engineering discipline and long‑term maintainability.
+---
 
-## 🚀 What I’m Building
+## 🚀 What I'm Building
 
-- **Tarvix** – Leading a team developing open‑source trading tools and Web3 connectivity systems  
-- **Secure Blockchain Infrastructure** – Wallets, node management, and decentralized data flows  
-- **Cross‑Platform dApps** – Building decentralized applications with Flutter for mobile and web  
-- **Unified Frontend Systems** – Scalable, design‑driven web apps and client frameworks connecting users to next‑gen crypto & trading ecosystems
+- **Mazdax Digital Assets Exchange** – Production cryptocurrency exchange built with Flutter, Riverpod, Clean Architecture, REST, and WebSocket
+- **Crypto Market Radar** – Customer and market intelligence platform for analyzing crypto-market signals, customer voice, product friction, and market patterns
+- **Tarvix** – Architecture-focused engineering and Web3 projects
+- **Web3 & Blockchain Applications** – Wallets, staking, blockchain integrations, and decentralized application infrastructure
+
+---
 
 ## 💼 Experience Highlights
 
-- **8+ years** of professional experience in mobile and cross‑platform development
-- Extensive experience building **production‑grade Flutter applications** for Android, iOS, Web, and Desktop
-- Strong background in **blockchain and Web3 application development**, including wallets and node management systems
-- Experience developing **modern web applications using React.js, Next.js, JavaScript, and TypeScript**
-- Solid understanding of **clean architecture, scalable system design, and maintainable codebases**
-- Industry experience across **fintech, banking, e‑commerce, and academic platforms**
-- Native mobile development experience in **Android (Kotlin/Java) and iOS (Swift/Objective‑C)**
-
+- **8+ years** of professional software development experience
+- Strong focus on **production-grade Flutter applications** across Android, iOS, Web, and Desktop
+- Experience building **cryptocurrency, fintech, blockchain, and Web3 products**
+- **Real-time application development** using WebSocket, gRPC, and RPC
+- Strong experience with **Riverpod, Clean Architecture, modularization, SOLID, and repository-based design**
+- Modern web development with **React, Next.js, TypeScript, and Node.js**
+- **Production engineering** including CI/CD, automated testing, documentation, code review, performance optimization, and release workflows
+- Previous experience across **fintech, banking, e-commerce, education, and blockchain platforms**
+- **Native development experience** with Android (Kotlin/Java) and iOS (Swift/Objective-C)
 
 ## 🎓 Education & Certifications
 
