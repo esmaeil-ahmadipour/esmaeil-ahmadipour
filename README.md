@@ -1,8 +1,3 @@
-<!-- <p align="center">
-<img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-1abedb.svg?style=flat&logo=github">
-<img alt="Github Viewers" src="https://visitor-badge.glitch.me/badge?page_id=benymaxparsa.benymaxparsa">
-<img alt="Open Source Love" src="https://img.shields.io/badge/Open%20Source-%E2%99%A1-purple">
-</p> -->
 
 <img width="1560" height="384" alt="esmaeil ahmadipour" src="https://github.com/esmaeil-ahmadipour/esmaeil-ahmadipour/blob/main/upload/banner/esmaeil-ahmadipour-banner2.jpg" />
 
@@ -18,19 +13,20 @@ Alongside Flutter, I work with **React, Next.js, TypeScript, Node.js, and Postgr
 
 ---
 
-## What I Work On
+## What I Do
 
 ### Mobile & Cross-Platform
 
 * Flutter / Dart
 * Android / Kotlin
-* Cross-platform application architecture
-* Clean Architecture & modular design
-* State management
-* REST APIs, WebSockets, gRPC / RPC
-* Automated testing
-* CI/CD and release workflows
-* Performance and production reliability
+* iOS
+* Web & PWA
+* Windows / macOS / Linux
+* Clean & Modular Architecture
+* Riverpod / BLoC
+* REST / WebSockets / gRPC / RPC
+* Unit / Widget / Integration Testing
+* CI/CD & Production Releases
 
 ### Web & Product Engineering
 
@@ -53,24 +49,30 @@ Alongside Flutter, I work with **React, Next.js, TypeScript, Node.js, and Postgr
 
 ---
 
-## Selected Work
+## Selected Production Work
 
 ### Mazdax Digital Assets Exchange
 
 Production cryptocurrency exchange application built with Flutter.
 
-**Areas of work:**
+Worked across:
 
 * Spot trading
-* Market charts and real-time market data
-* Wallets and asset transfers
+* Market charts & real-time market data
+* Wallets & asset transfers
 * Portfolio
-* Authentication and KYC
-* REST APIs and WebSockets
-* Riverpod and Clean Architecture
+* Authentication & KYC
+* REST APIs & WebSockets
+* Riverpod & Clean Architecture
 * Automated testing
-* Android and PWA delivery
-* CI/CD and production release workflows
+* Android & PWA
+* CI/CD & production delivery
+
+**Currently working as a Senior Flutter Engineer.**
+
+* [Mazdax PWA](https://pwa.mazdax.ir/en)
+* [Download Mazdax Android App | Myket](https://myket.ir/app/com.mazdax.neobroker)
+* [Download Mazdax Android App | CafeBazaar](https://cafebazaar.ir/app/com.mazdax.neobroker)
 
 ---
 
@@ -82,44 +84,56 @@ Worked on:
 
 * Wallet operations
 * Node management
-* Staking: Bond, Unbond and Withdraw
-* Transactions and balances
-* Blockchain communication through gRPC/RPC
-* Flutter architecture and design system
-* Widgetbook
+* Staking — Bond / Unbond / Withdraw
+* Transactions & balances
+* gRPC / RPC blockchain communication
+* Flutter architecture
+* Design System & Widgetbook
 * Automated testing
 * CI/CD
-* Windows, macOS and Linux
+* Windows / macOS / Linux
 
-Also worked as a **Flutter Team Lead / GUI Manager**, contributing to architecture, code review, mentoring and technical decisions.
+Also worked as **Flutter Team Lead / GUI Manager**, contributing to architecture, code reviews, mentoring, design-system development, and technical decisions.
 
----
+**Repositories:**
 
-### Crypto Market Radar
-
-A product intelligence platform focused on the crypto market.
-
-Radar processes customer and market data to move from:
-
-**Reviews → Signals → Market Understanding → Product Decisions**
-
-The platform explores customer voice, product friction, product updates, bugs, feature requests and market patterns for crypto-product teams.
-
-Built with:
-
-**Next.js · React · TypeScript · Prisma · PostgreSQL**
-
-This project represents my transition from application development toward broader **Product Engineering and Product Intelligence**.
+* [Pactus GUI](https://github.com/pactus-project/pactus-gui)
+* [Pactus GUI Widgetbook](https://github.com/pactus-project/pactus-gui-widgetbook)
 
 ---
 
 ### Tarvix
 
-An engineering and product development initiative focused on building digital products across mobile, web and backend.
+An engineering and product development initiative where I build products across **mobile, web, backend, and product intelligence**.
 
 Technology areas include:
 
-**Flutter · React · Next.js · TypeScript · Node.js · NestJS · PostgreSQL · Prisma · Docker**
+`Flutter` · `React` · `Next.js` · `TypeScript` · `Node.js` · `NestJS` · `PostgreSQL` · `Prisma` · `Docker`
+
+Projects include:
+
+* **Tarvix Market** — multi-branch grocery marketplace
+* **Crypto Market Radar** — customer voice and market intelligence platform
+
+[Visit Tarvix →](https://www.tarvix.org/)
+
+---
+
+### Crypto Market Radar
+
+A product intelligence platform focused on the Iranian cryptocurrency market.
+
+The goal is to move from:
+
+**Reviews → Signals → Market Understanding → Product Decisions**
+
+Radar explores customer voice, product friction, bugs, feature requests, product updates, and market patterns for crypto-product teams.
+
+Built with:
+
+`Next.js` · `React` · `TypeScript` · `Prisma` · `PostgreSQL`
+
+The project is also an exploration of **data modeling, product intelligence, analytics, and decision-support systems** beyond traditional application development.
 
 ---
 
@@ -127,86 +141,114 @@ Technology areas include:
 
 I care about more than getting an application to run.
 
-My focus is on:
+I focus on:
 
-* Clear architecture
-* Maintainable codebases
-* Practical engineering standards
-* Automated testing
-* Code review
+* Architecture
+* Maintainability
+* Testing
+* Code quality
 * CI/CD
 * Production debugging
 * Performance
 * Documentation
+* Code review
 * Technical ownership
 
-I prefer solving problems through **simple, maintainable engineering decisions** rather than adding complexity for its own sake.
+I prefer **simple and maintainable engineering decisions over unnecessary complexity**.
+
+---
+
+## Beyond Flutter
+
+My primary specialization is Flutter, but my engineering background is broader.
+
+I have hands-on experience with:
+
+**Web**
+
+`React` · `Next.js` · `TypeScript`
+
+**Backend**
+
+`Node.js` · `NestJS` · `PostgreSQL` · `Prisma`
+
+**Native**
+
+`Android` · `Kotlin` · `Java` · `Jetpack Compose`
+
+**Blockchain**
+
+`Wallets` · `Staking` · `gRPC/RPC` · `Blockchain Nodes` · `Solidity`
+
+**Other**
+
+`Unity` · `3D Applications` · `Docker` · `CI/CD`
+
+These are supporting capabilities around my core engineering profile rather than separate career identities.
+
+---
+
+## Open Source & GitHub
+
+I have published Flutter/Dart packages and contributed to open-source projects.
+
+### Selected repositories
+
+* [`crypto_simple`](https://github.com/esmaeil-ahmadipour/crypto_simple)
+* [`platform_detector`](https://github.com/esmaeil-ahmadipour/platform_detector)
+* [`ip_detector`](https://github.com/esmaeil-ahmadipour/ip_detector)
+* [`CodeDump`](https://github.com/esmaeil-ahmadipour/CodeDump)
+
+For the most current repositories, projects, experiments, contributions, pull requests, reviews, and activity, see my **GitHub profile and repository history**.
+
+[View GitHub →](https://github.com/esmaeil-ahmadipour)
 
 ---
 
 ## Current Direction
 
-My current focus is on growing from a deeply experienced **Flutter / Mobile Engineer** into a broader **Product Engineer**, while keeping Flutter as my core specialization.
+I'm currently focused on growing from a deeply experienced **Flutter / Mobile Engineer** into a broader **Product / Software Engineer**, while keeping Flutter as my core specialization.
 
-I'm expanding my work across:
+My current focus:
 
-**Flutter → React / Next.js → TypeScript → Node.js / Backend**
+**Flutter → Web Engineering → Backend Depth → Product Engineering**
 
-with particular interest in **Fintech, Digital Assets, Product Engineering and data-driven products**.
+with particular interest in:
 
-I also use AI-assisted development as part of my engineering workflow for research, implementation, debugging, testing, documentation and code review — while keeping architectural and technical decisions under human control.
+**Fintech · Digital Assets · Cross-Platform Systems · Product Intelligence**
+
+I use AI-assisted development as part of my engineering workflow for research, implementation, debugging, testing, documentation, and code review — while keeping architecture, verification, and technical decisions under human control.
 
 ---
 
-## Let's Connect
+## Open to
 
-I'm interested in:
-
-* Senior Flutter / Mobile roles
-* Cross-platform engineering
+* Senior Flutter / Mobile Engineering
+* Cross-Platform Engineering
 * Fintech & Digital Assets
-* Remote engineering opportunities
-* Contract / project-based work
+* Remote Engineering
+* Contract / Project-based work
 * Product Engineering
-* Technical ownership
-
-[LinkedIn](https://www.linkedin.com/in/esmaeil-ahmadipour/) ·
-[GitHub](https://github.com/esmaeil-ahmadipour) ·
-[Website](https://ea2.ir/) ·
-[Tarvix](https://tarvix.org/en/)
-
----
-
-## Open Source & Packages
-
-I have also published and contributed to Flutter/Dart packages on pub.dev.
-
-### Packages
-
-* [flutter_glass](https://pub.dev/packages/flutter_glass)
-* [flutter_faded_list](https://pub.dev/packages/flutter_faded_list)
-* [crypto_simple](https://pub.dev/packages/crypto_simple)
-* [platform_detector](https://pub.dev/packages/platform_detector)
-* [ip_detector](https://pub.dev/packages/ip_detector)
-
-### Contributions
-
-* [flutter_camera_overlay](https://pub.dev/packages/flutter_camera_overlay)
-* [flutter_adaptive_ui](https://pub.dev/packages/flutter_adaptive_ui)
-* [flutter_cool_card_swiper](https://pub.dev/packages/flutter_cool_card_swiper)
+* Technical Ownership
 
 ---
 
 ## Education
 
-* Associate Degree in Computer Software — Azad University of Dezful
-* Game Development Certification — Isfahan University of Technology
-* Unity & C# Certification — Shahid Beheshti University
+**Associate Degree in Computer Software**
+Azad University of Dezful
+
+**Game Development Certification**
+Isfahan University of Technology
+
+**Unity & C# Certification**
+Shahid Beheshti University
 
 ---
 
-<p align="center">
+### Find me elsewhere
 
-**Flutter · Mobile · Web · Fintech · Digital Assets · Product Engineering**
-
-</p>
+[LinkedIn](https://www.linkedin.com/in/esmaeil-ahmadipour) ·
+[Website](https://www.tarvix.org/) ·
+[Medium](https://medium.com/@ahmadipour) ·
+[X](https://x.com/ea2Dev)
