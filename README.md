@@ -125,7 +125,7 @@ A product intelligence platform focused on the Iranian cryptocurrency market.
 
 The goal is to move from:
 
-**Reviews → Signals → Market Understanding → Product Decisions**
+**Reviews → Market Understanding → Product Decisions**
 
 Radar explores customer voice, product friction, bugs, feature requests, product updates, and market patterns for crypto-product teams.
 
